@@ -88,7 +88,6 @@ const Body5 = () => {
             </a>
           </div>
         </div>
-        <div className="h-px w-[1296px] relative hidden max-w-full" />
       </div>
     </div>
   );

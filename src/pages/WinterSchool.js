@@ -18,7 +18,7 @@ const WinterSchool = () => {
         <Hero />
         <Body1 />
       </section>
-      <section className="w-[1392px] flex flex-col items-start justify-start pt-0 pb-[321.4px] pr-0 pl-5 box-border min-h-[3216px] max-w-full text-left text-22xl-6 text-white font-domine mq800:pb-[88px] mq800:box-border mq1350:pb-[136px] mq1350:box-border">
+      <section className="w-[1392px] flex flex-col items-start justify-start pt-0 pb-16 pr-0 pl-5 box-border max-w-full text-left text-22xl-6 text-white font-domine mq800:pb-[88px] mq800:box-border mq1350:pb-[136px] mq1350:box-border">
         <Body2 />
         <Body3 />
         <Body4 />
