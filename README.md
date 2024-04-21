@@ -8,4 +8,4 @@ To preview and run the project on your device, I like bun but you can use npm to
 2. In the terminal, run `npm install`
 3. Run `npm start` to view project in browser
 
-The names in images folder are quite wacky but its your mistake that's what you had named in the figma file. Despite asking for images multiple times, you always gave imcomplete set of images. Anyways feel free to change the names.
+The names of images in Public folder are quite wacky but its your mistake that's what you had named in the figma file. Despite asking for images multiple times, you always gave imcomplete set of images. Anyways feel free to change the names.
